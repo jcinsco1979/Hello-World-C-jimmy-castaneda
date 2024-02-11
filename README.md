@@ -1,2 +1,1 @@
-# Hello World C jimmy castaneda
- assignment 3.2
+# Hello World 
